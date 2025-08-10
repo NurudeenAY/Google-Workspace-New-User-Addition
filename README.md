@@ -3,6 +3,10 @@
 ## Overview
 This project explains how to add a new user in Google Workspace using the Admin console.  It includes step-by-step instructions and captions for where to place screenshots.
 
+## Video
+
+https://github.com/user-attachments/assets/b30a67db-0f88-4c6a-a2c0-f2651d90ebfa
+
 ## Prerequisites
 - Admin account with permission to manage users
 - User information: first name, last name, primary email, recovery email or phone
@@ -48,7 +52,7 @@ This project explains how to add a new user in Google Workspace using the Admin 
 - Use alternate email for sharing credentials
 - Place user in correct organizational unit for policy control
 
----
+
 
 ## Troubleshooting
 - Username conflicts must be resolved before creation
