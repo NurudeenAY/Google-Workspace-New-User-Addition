@@ -18,13 +18,14 @@ This project explains how to add a new user in Google Workspace using the Admin 
    - <img width="1426" height="774" alt="Bildschirmfoto 2025-08-10 um 23 16 30" src="https://github.com/user-attachments/assets/c2d4ea17-8108-44e5-9f0c-b31e7506b26d" />
 
 3. **Click Add New User**
-   - Button is at the top of the user list  
-   _Screenshot: `03-a<img width="1413" height="599" alt="Bildschirmfoto 2025-08-10 um 23 16 55" src="https://github.com/user-attachments/assets/06797c98-5916-40a6-8e33-14c7058923db" />
-dd-new-user-button.png` — "Click Add new user"_
+   - Button is at the top of the user list
+   
+   - <img width="1413" height="599" alt="Bildschirmfoto 2025-08-10 um 23 16 55" src="https://github.com/user-attachments/assets/e59ecb96-0d7d-4183-a851-bea4ed075f24" />
 
 4. **Enter User Details**
-   - Required: first name, last name, primary email  
-   _Screenshot: `04-fill-user-details.png` — "Enter first name, last name, and email"_
+   - Required: first name, last name, primary email
+  
+   - <img width="1413" height="599" alt="Bildschirmfoto 2025-08-10 um 23 17 18" src="https://github.com/user-attachments/assets/248922ee-075a-4e2d-954f-e8c2367a9767" />
 
 5. **Set Optional Details**
    - Organizational unit  
@@ -32,9 +33,24 @@ dd-new-user-button.png` — "Click Add new user"_
    - Temporary password (or auto-generate)
 
 6. **Create the User**
-   - Click **Add New User**  
-   _Screenshot: `06-click-add-user.png` — "Click Add New User to create the account"_
+   - Click **Add New User**
+  
+   - <img width="1413" height="651" alt="Bildschirmfoto 2025-08-10 um 23 17 46" src="https://github.com/user-attachments/assets/e4cc256d-b03d-4ec7-8ea2-02b26b6536df" />
 
 7. **Share Account Info**
-   - Copy password or email sign-in instructions  
-   _Screenshot: `07-send-account-info.png` — "Choose how to send account info"_
+   - Copy password or email sign-in instructions
+  
+   - <img width="1431" height="763" alt="Bildschirmfoto 2025-08-10 um 23 19 09" src="https://github.com/user-attachments/assets/3d1c8b83-45f0-477d-ab68-f7f667fb28ef" />
+
+   ## Best Practices
+- Create accounts before start date, suspend until needed
+- Require password change on first sign-in
+- Use alternate email for sharing credentials
+- Place user in correct organizational unit for policy control
+
+---
+
+## Troubleshooting
+- Username conflicts must be resolved before creation
+- Some services may take up to 24h to activate
+- Welcome email links expire after 48h
