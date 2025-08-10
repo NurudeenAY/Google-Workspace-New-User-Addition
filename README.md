@@ -14,12 +14,13 @@ This project explains how to add a new user in Google Workspace using the Admin 
 
 2. **Go to Users**
    - Menu → **Directory > Users**
-   - 
-   _Screenshot: `02-users-menu.png` — "Open Directory and click Users"_
+   
+   - <img width="1426" height="774" alt="Bildschirmfoto 2025-08-10 um 23 16 30" src="https://github.com/user-attachments/assets/c2d4ea17-8108-44e5-9f0c-b31e7506b26d" />
 
 3. **Click Add New User**
    - Button is at the top of the user list  
-   _Screenshot: `03-add-new-user-button.png` — "Click Add new user"_
+   _Screenshot: `03-a<img width="1413" height="599" alt="Bildschirmfoto 2025-08-10 um 23 16 55" src="https://github.com/user-attachments/assets/06797c98-5916-40a6-8e33-14c7058923db" />
+dd-new-user-button.png` — "Click Add new user"_
 
 4. **Enter User Details**
    - Required: first name, last name, primary email  
