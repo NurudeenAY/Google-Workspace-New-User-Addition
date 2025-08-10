@@ -1,7 +1,7 @@
 # Add a New User in Google Workspace
 
 ## Overview
-This project explains how to add a new user in Google Workspace using the Admin console.  It includes step-by-step instructions and captions for where to place screenshots.
+This project explains how to add a new user in Google Workspace using the Admin console.
 
 ## Prerequisites
 - Admin account with permission to manage users
